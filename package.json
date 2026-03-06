@@ -1,0 +1,29 @@
+{
+  "name": "nnptudm_bt05",
+  "version": "1.0.0",
+  "description": "Tạ Hoàng Thiên Bảo - 2280604773\r 22DTHE3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thienbao-code/NNPTUDM_BT05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thienbao-code/NNPTUDM_BT05/issues"
+  },
+  "homepage": "https://github.com/thienbao-code/NNPTUDM_BT05#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
